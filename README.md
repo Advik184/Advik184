@@ -1,4 +1,4 @@
-# Hey, I'm Advik 👋
+# Hey, I'm Advik
 
 I'm a **Data Science student at the University of North Carolina at Chapel Hill** interested in **AI, machine learning, data analytics, and software development**.
 
